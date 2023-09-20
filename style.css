@@ -1,0 +1,20 @@
+
+body{
+    width: 350 px;
+    text-align: center;
+    display:block;
+}
+#littlePrinceImage{
+    text-align: center;
+}
+
+#underlined {
+    text-decoration: underline;
+}
+#highlighted{
+    background:orange;
+}
+#makRed{
+    color: red;
+    font-weight: bold;
+}
